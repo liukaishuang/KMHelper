@@ -12,8 +12,7 @@
         ResizeMode="CanMinimize"
         WindowStartupLocation="CenterScreen"
         Loaded="Window_Loaded"
-        Closed="Window_Closed"
-        Icon="ico.png">
+        Closed="Window_Closed">
     <Window.Resources>
         <sys:Double   x:Key="VerticalScrollBarThickness">10</sys:Double>
         <SolidColorBrush x:Key="VerticalTrackBackgroundBrush"
