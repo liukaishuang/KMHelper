@@ -1,1 +1,1 @@
-A tool for automatically pressing keys
+Auto key presser. Making easier your gamer life!
