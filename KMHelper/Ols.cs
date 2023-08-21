@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace KMHelper
 {
+    //很久以前搜集到的工具类，找了好久找到了我搬运的地方：https://github.com/Zzz2333/TestKeyboard
     public class Ols : IDisposable
     {
         const string dllNameX64 = "WinRing0x64.dll";
